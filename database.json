@@ -55,6 +55,13 @@
             "uid": 7,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "985f231a": {
+            "discordNickname": ".5wzx3",
+            "discord_id": "1114190231390924820",
+            "uid": 8,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
