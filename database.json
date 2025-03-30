@@ -6,7 +6,14 @@
             "uid": 0,
             "hwid": null,
             "expiryDate": "2025-04-29"
+        },
+        "0983c89b": {
+            "discordNickname": "ronopolda.",
+            "discord_id": "1286721634102808608",
+            "uid": 1,
+            "hwid": null,
+            "expiryDate": "2025-04-29"
         }
     },
-    "next_uid": 1
+    "next_uid": 2
 }
