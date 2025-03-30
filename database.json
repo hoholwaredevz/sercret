@@ -1,18 +1,18 @@
 {
     "users": {
-        "b5c6d7e8": {
-            "discordNickname": "unixetp.dev",
-            "discord_id": "1202978293125484564",
-            "uid": 0,
-            "hwid": null,
-            "expiryDate": "2025-05-01"
-        },
         "e0081998": {
             "discordNickname": "ronopolda.",
             "discord_id": "1286721634102808608",
             "uid": 1,
             "hwid": null,
             "expiryDate": "2025-04-06"
+        },
+        "339c6e3f": {
+            "discordNickname": "unixetp.dev",
+            "discord_id": "1202978293125484564",
+            "uid": 0,
+            "hwid": null,
+            "expiryDate": "2025-04-29"
         }
     }
 }
