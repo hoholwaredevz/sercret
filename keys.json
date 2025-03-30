@@ -47,6 +47,10 @@
         "aa30f6e6": {
             "expiryDate": "9999-12-31",
             "used": false
+        },
+        "e398f69f": {
+            "expiryDate": "9999-12-31",
+            "used": false
         }
     }
 }
