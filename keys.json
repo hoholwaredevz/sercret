@@ -1,0 +1,12 @@
+{
+    "keys": {
+        "a1b2c3d4": {
+            "expiryDate": "2025-04-29",
+            "used": true
+        },
+        "b5c6d7e8": {
+            "expiryDate": "2025-05-01",
+            "used": false
+        }
+    }
+}
