@@ -76,6 +76,13 @@
             "uid": 10,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "facb4a9d": {
+            "discordNickname": "monstr.energy",
+            "discord_id": "1308503303642021939",
+            "uid": 11,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
