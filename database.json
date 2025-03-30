@@ -1,3 +1,12 @@
 {
-    "users": {}
+    "users": {
+        "817340e2": {
+            "discordNickname": "unixetp.dev",
+            "discord_id": "1202978293125484564",
+            "uid": 0,
+            "hwid": null,
+            "expiryDate": "2025-04-29"
+        }
+    },
+    "next_uid": 1
 }
