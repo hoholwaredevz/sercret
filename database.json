@@ -111,6 +111,13 @@
             "uid": 15,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "05ecaca6": {
+            "discordNickname": "dawgcut",
+            "discord_id": "976822111958077440",
+            "uid": 16,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
