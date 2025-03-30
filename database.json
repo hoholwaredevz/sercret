@@ -118,6 +118,13 @@
             "uid": 16,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "182e9397": {
+            "discordNickname": "pixelsurfs",
+            "discord_id": "1168872731304001662",
+            "uid": 17,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
