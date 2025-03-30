@@ -1,3 +1,11 @@
 {
-    "users": {}
+    "users": {
+        "b5c6d7e8": {
+            "discordNickname": "unixetp.dev",
+            "discord_id": "1202978293125484564",
+            "uid": 0,
+            "hwid": null,
+            "expiryDate": "2025-05-01"
+        }
+    }
 }
