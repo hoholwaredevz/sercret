@@ -83,6 +83,13 @@
             "uid": 11,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "661bee35": {
+            "discordNickname": "cheesez_normal1",
+            "discord_id": "1213138944431226891",
+            "uid": 12,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
