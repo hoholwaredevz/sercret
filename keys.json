@@ -87,6 +87,10 @@
         "f822940c": {
             "expiryDate": "9999-12-31",
             "used": true
+        },
+        "52dcf8d1": {
+            "expiryDate": "9999-12-31",
+            "used": false
         }
     }
 }
