@@ -62,6 +62,13 @@
             "uid": 8,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "b3c12f69": {
+            "discordNickname": "whatomg27277",
+            "discord_id": "1035571281866801202",
+            "uid": 9,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
