@@ -34,6 +34,13 @@
             "uid": 4,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "31516a0e": {
+            "discordNickname": "iwerkout",
+            "discord_id": "1187104089969012838",
+            "uid": 5,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
