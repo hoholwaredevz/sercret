@@ -48,6 +48,13 @@
             "uid": 6,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "2562bfd3": {
+            "discordNickname": "c48k",
+            "discord_id": "402571475774865418",
+            "uid": 7,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
