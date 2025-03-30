@@ -90,6 +90,13 @@
             "uid": 12,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "0ce13eda": {
+            "discordNickname": "stex0",
+            "discord_id": "1296567613828366367",
+            "uid": 13,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
