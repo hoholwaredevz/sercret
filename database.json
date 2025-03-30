@@ -20,6 +20,13 @@
             "uid": 2,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "b21eb898": {
+            "discordNickname": "dcbour",
+            "discord_id": "768777761241432075",
+            "uid": 3,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
