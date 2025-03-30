@@ -41,6 +41,13 @@
             "uid": 5,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "aa30f6e6": {
+            "discordNickname": "magaisan",
+            "discord_id": "1048524359880421417",
+            "uid": 6,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
