@@ -51,6 +51,10 @@
         "e398f69f": {
             "expiryDate": "9999-12-31",
             "used": false
+        },
+        "2562bfd3": {
+            "expiryDate": "9999-12-31",
+            "used": false
         }
     }
 }
