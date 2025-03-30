@@ -6,7 +6,7 @@
         },
         "b5c6d7e8": {
             "expiryDate": "2025-05-01",
-            "used": true
+            "used": false
         },
         "e0081998": {
             "expiryDate": "2025-04-06",
@@ -18,7 +18,7 @@
         },
         "339c6e3f": {
             "expiryDate": "2025-04-29",
-            "used": false
+            "used": true
         }
     }
 }
