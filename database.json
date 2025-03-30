@@ -1,19 +1,3 @@
 {
-    "users": {
-        "817340e2": {
-            "discordNickname": "unixetp.dev",
-            "discord_id": "1202978293125484564",
-            "uid": 0,
-            "hwid": null,
-            "expiryDate": "2025-04-29"
-        },
-        "0983c89b": {
-            "discordNickname": "ronopolda.",
-            "discord_id": "1286721634102808608",
-            "uid": 1,
-            "hwid": "churka",
-            "expiryDate": "2025-04-29"
-        }
-    },
-    "next_uid": 2
+    "users": {}
 }
