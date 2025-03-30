@@ -66,7 +66,7 @@
         },
         "b3c12f69": {
             "expiryDate": "9999-12-31",
-            "used": false
+            "used": true
         }
     }
 }
