@@ -69,6 +69,13 @@
             "uid": 9,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "3e434e35": {
+            "discordNickname": "moskvich_zaruba",
+            "discord_id": "898563454405836812",
+            "uid": 10,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
