@@ -125,6 +125,13 @@
             "uid": 17,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "82572f7b": {
+            "discordNickname": "sk3d.user",
+            "discord_id": "1318756438998257666",
+            "uid": 18,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
