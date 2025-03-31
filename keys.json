@@ -107,6 +107,10 @@
         "82572f7b": {
             "expiryDate": "9999-12-31",
             "used": true
+        },
+        "93039c5c": {
+            "expiryDate": "9999-12-31",
+            "used": false
         }
     }
 }
