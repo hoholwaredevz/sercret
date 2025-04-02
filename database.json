@@ -139,6 +139,13 @@
             "uid": 19,
             "hwid": null,
             "expiryDate": "9999-12-31"
+        },
+        "90096c12": {
+            "discordNickname": "xotaym_07969",
+            "discord_id": "1179400452618584144",
+            "uid": 20,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
