@@ -1,3 +1,11 @@
 {
-    "users": {}
+    "users": {
+        "b5c6d7e8": {
+            "discordNickname": "dawgcut",
+            "discord_id": "976822111958077440",
+            "uid": 0,
+            "hwid": null,
+            "expiryDate": "2025-05-01"
+        }
+    }
 }
