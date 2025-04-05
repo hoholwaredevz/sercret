@@ -3,7 +3,7 @@
         "a1b2c3d4": {
             "discordNickname": "begemotdoooo",
             "discord_id": "853875930392297492",
-            "uid": "доооооооо",
+            "uid": "\u0434\u043e\u043e\u043e\u043e\u043e\u043e\u043e\u043e",
             "hwid": null,
             "expiryDate": "2025-04-29"
         },
@@ -13,6 +13,13 @@
             "uid": 1488,
             "hwid": null,
             "expiryDate": "2025-05-01"
+        },
+        "ce3658da": {
+            "discordNickname": "magaisan",
+            "discord_id": "1048524359880421417",
+            "uid": 2,
+            "hwid": null,
+            "expiryDate": "9999-12-31"
         }
     }
 }
