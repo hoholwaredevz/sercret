@@ -139,6 +139,13 @@
             "uid": 20,
             "hwid": null,
             "expiryDate": "2030-04-06"
+        },
+        "b5c6d7e8": {
+            "discordNickname": "felix",
+            "discord_id": "365880165311709187",
+            "uid": 21,
+            "hwid": null,
+            "expiryDate": "2030-12-31"
         }
     }
 }
