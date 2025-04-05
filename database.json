@@ -1,3 +1,11 @@
 {
-    "users": {}
+    "users": {
+        "a1b2c3d4": {
+            "discordNickname": "begemotdoooo",
+            "discord_id": "853875930392297492",
+            "uid": 0,
+            "hwid": null,
+            "expiryDate": "2025-04-29"
+        }
+    }
 }
