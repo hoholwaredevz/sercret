@@ -1,3 +1,144 @@
 {
-    "users": {}
+    "users": {
+        "e0081998": {
+            "discordNickname": "ronopolda.",
+            "discord_id": "1286721634102808608",
+            "uid": 0,
+            "hwid": "BFEBFBFF000906A3",
+            "expiryDate": "2030-04-06"
+        },
+        "15ab9161": {
+            "discordNickname": "unixetp.dev",
+            "discord_id": "1202978293125484564",
+            "uid": 1,
+            "hwid": "BFEBFBFF000306A9",
+            "expiryDate": "2030-04-06"
+        },
+        "2c545bf1": {
+            "discordNickname": "lixzlp.",
+            "discord_id": "920702455178735657",
+            "uid": 2,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "b21eb898": {
+            "discordNickname": "dcbour",
+            "discord_id": "768777761241432075",
+            "uid": 3,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "8b82f039": {
+            "discordNickname": "pop4ik123",
+            "discord_id": "1207050355410477158",
+            "uid": 4,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "31516a0e": {
+            "discordNickname": "iwerkout",
+            "discord_id": "1187104089969012838",
+            "uid": 5,
+            "hwid": "BFEBFBFF000A0653",
+            "expiryDate": "2030-04-06"
+        },
+        "aa30f6e6": {
+            "discordNickname": "magaisan",
+            "discord_id": "1048524359880421417",
+            "uid": 6,
+            "hwid": "BFEBFBFF000806D1",
+            "expiryDate": "2030-04-06"
+        },
+        "2562bfd3": {
+            "discordNickname": "c48k",
+            "discord_id": "402571475774865418",
+            "uid": 7,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "985f231a": {
+            "discordNickname": ".5wzx3",
+            "discord_id": "1114190231390924820",
+            "uid": 8,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "b3c12f69": {
+            "discordNickname": "whatomg27277",
+            "discord_id": "1035571281866801202",
+            "uid": 9,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "3e434e35": {
+            "discordNickname": "moskvich_zaruba",
+            "discord_id": "898563454405836812",
+            "uid": 10,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "facb4a9d": {
+            "discordNickname": "monstr.energy",
+            "discord_id": "1308503303642021939",
+            "uid": 11,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "661bee35": {
+            "discordNickname": "cheesez_normal1",
+            "discord_id": "1213138944431226891",
+            "uid": 12,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "0ce13eda": {
+            "discordNickname": "stex0",
+            "discord_id": "1296567613828366367",
+            "uid": 13,
+            "hwid": "BFEBFBFF000906EA",
+            "expiryDate": "2030-04-06"
+        },
+        "52dcf8d1": {
+            "discordNickname": "begemotdoooo",
+            "discord_id": "853875930392297492",
+            "uid": 15,
+            "hwid": "BFEBFBFF000806C1",
+            "expiryDate": "2030-04-06"
+        },
+        "05ecaca6": {
+            "discordNickname": "dawgcut",
+            "discord_id": "976822111958077440",
+            "uid": 16,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "182e9397": {
+            "discordNickname": "pixelsurfs",
+            "discord_id": "1168872731304001662",
+            "uid": 17,
+            "hwid": "BFEBFBFF00090675",
+            "expiryDate": "2030-04-06"
+        },
+        "82572f7b": {
+            "discordNickname": "sk3d.user",
+            "discord_id": "1318756438998257666",
+            "uid": 18,
+            "hwid": "BFEBFBFF000806D1",
+            "expiryDate": "2030-04-06"
+        },
+        "93039c5c": {
+            "discordNickname": "syhse111",
+            "discord_id": "1277523950855000105",
+            "uid": 19,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        },
+        "90096c12": {
+            "discordNickname": "xotaym_07969",
+            "discord_id": "1179400452618584144",
+            "uid": 20,
+            "hwid": null,
+            "expiryDate": "2030-04-06"
+        }
+    }
 }
