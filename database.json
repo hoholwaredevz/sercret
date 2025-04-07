@@ -160,6 +160,13 @@
             "uid": 23,
             "hwid": "00000-00001-00000-0E4D2-5C8C1",
             "expiryDate": "2030-12-31"
+        },
+        "9970373e": {
+            "discordNickname": "! oldlaimee?./.#",
+            "discord_id": "1061748995673825303",
+            "uid": 24,
+            "hwid": null,
+            "expiryDate": "2030-12-31"
         }
     }
 }
