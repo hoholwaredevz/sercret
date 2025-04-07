@@ -153,6 +153,13 @@
             "uid": 22,
             "hwid": "50026-B7381-22EDA-7",
             "expiryDate": "2030-12-31"
+        },
+        "365b4f17": {
+            "discordNickname": "Сосал",
+            "discord_id": "642585624368644097",
+            "uid": 23,
+            "hwid": null,
+            "expiryDate": "2030-12-31"
         }
     }
 }
