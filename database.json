@@ -130,7 +130,7 @@
             "discordNickname": "syhse111",
             "discord_id": "1277523950855000105",
             "uid": 19,
-            "hwid": "00A07-56590-00006-C",
+            "hwid": null,
             "expiryDate": "2030-04-06"
         },
         "90096c12": {
@@ -145,6 +145,13 @@
             "discord_id": "1097993928587878492",
             "uid": 21,
             "hwid": "E8238-FA6BF-53000-1001B-448B4",
+            "expiryDate": "2030-12-31"
+        },
+        "2d445727": {
+            "discordNickname": "Clonelis_png",
+            "discord_id": "823887139933913120",
+            "uid": 22,
+            "hwid": "50026-B7381-22EDA-7",
             "expiryDate": "2030-12-31"
         },
         "365b4f17": {
