@@ -181,6 +181,13 @@
             "uid": 26,
             "hwid": null,
             "expiryDate": "2030-12-31"
+        },
+        "cd7b3c43": {
+            "discordNickname": "inte",
+            "discord_id": "1088750323625107476",
+            "uid": 27,
+            "hwid": null,
+            "expiryDate": "2030-12-31"
         }
     }
 }
