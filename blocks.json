@@ -1,12 +1,3 @@
 {
-    "blocked_users": {
-        "1035571281866801202": {
-            "blocked_by": "1202978293125484564",
-            "blocked_by_name": "unix.dev_",
-            "custom_reason": "хуила",
-            "blocked_at": "2025-04-20T17:33:13.270048+00:00",
-            "expires_at": "2025-04-20T17:43:13.270048+00:00",
-            "target_name_at_block": "whatomg27277"
-        }
-    }
+    "blocked_users": {}
 }
