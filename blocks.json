@@ -1,3 +1,12 @@
 {
-    "blocked_users": {}
+    "blocked_users": {
+        "1358802070282440847": {
+            "blocked_by": "1202978293125484564",
+            "blocked_by_name": "unix.dev_",
+            "custom_reason": "заебал",
+            "blocked_at": "2025-04-21T13:01:34.551627+00:00",
+            "expires_at": "2025-04-21T13:31:34.551627+00:00",
+            "target_name_at_block": "pentg00n"
+        }
+    }
 }
