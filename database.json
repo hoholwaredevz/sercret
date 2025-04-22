@@ -181,6 +181,14 @@
             "uid": 27,
             "hwid": null,
             "expiryDate": "2030-12-31"
+        },
+        "4c0a2906": {
+            "discordNickname": "丰",
+            "discord_id": "1193368849517641800",
+            "uid": 28,
+            "hwid": null,
+            "expiryDate": "9999-12-31",
+            "registration_date": "2025-04-22T18:10:27.396848+00:00"
         }
     }
 }
